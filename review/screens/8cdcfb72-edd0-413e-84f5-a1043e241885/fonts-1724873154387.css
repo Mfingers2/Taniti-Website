@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Montserrat_26.0.0_google";
+  src: url("../../../fonts/Montserrat-Regular_26.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Open Sans_40.0.0_google";
+  src: url("../../../fonts/Open Sans-Regular_40.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Monda_16.0.0_google";
+  src: url("../../../fonts/Monda-Bold_16.0.0_google.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Gloock_6.0.0_google";
+  src: url("../../../fonts/Gloock-Regular_6.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Montserrat_26.0.0_google";
+  src: url("../../../fonts/Montserrat-Semibold_26.0.0_google.ttf");
+  font-weight: 600; 
+}
+@font-face {
+  font-family: "Montserrat_26.0.0_google";
+  src: url("../../../fonts/Montserrat-Medium_26.0.0_google.ttf");
+  font-weight: 500; 
+}
+@font-face {
+  font-family: "Bilbo Swash Caps_22.0.0_google";
+  src: url("../../../fonts/Bilbo Swash Caps-Regular_22.0.0_google.ttf");
+  font-weight: 400; 
+}
